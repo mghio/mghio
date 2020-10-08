@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![https://mghio.cn](https://raw.githubusercontent.com/mghio/tastspring/master/src/main/resources/helloworld.gif)
