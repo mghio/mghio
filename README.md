@@ -23,6 +23,7 @@ I'm a **Backend Engineer** based in Shanghai ☀️, working at [QEXR](https://w
 
 Aside from coding I enjoy writing technical things [at my blog](https://www.mghio.cn) ✍️
 
+Learn more about me @ https://www.mghio.cn.
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=immghio">
     <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @immghio on Twitter" title="Follow @immghio on Twitter">
