@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi! I'm [mghio](https://www.mghio.cn) 👋🏼
 
-I'm a **Backend Engineer** based in Shanghai ☀️, working at [QEXR](https://www.xingren.com). I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
+I'm a **Backend Engineer** based in Shanghai ☀️, working at [LinkSure](https://www.wifi.com). I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
 
 Aside from coding I enjoy writing technical things [at my blog](https://www.mghio.cn) ✍️
 
