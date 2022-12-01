@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.mghio.cn" target="_blank">mghio</a></h1>
+<h1 align="center">Hi 👋, I'm mghio</h1>
 <h3 align="center">A Javaer/Gopher(soon 😁) developer from Shanghai,China</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mghio&label=Profile%20views&color=3399FF&style=flat" alt="mghio" />
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-### About
+## About
 
 I'm a **Backend Engineer** based in Shanghai ☀️, working at [LinkSure](https://www.wifi.com). I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
 
