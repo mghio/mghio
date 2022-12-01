@@ -1,5 +1,13 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mghio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## <span align="center">Hi 👋, I'm [mghio](https://www.mghio.cn)</span>
+<h3 align="center">A Javaer/Gopher(soon 😁) developer from Shanghai,China</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mghio&label=Profile%20views&color=3399FF&style=flat" alt="mghio" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=E5FFCC&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmghio&longCache=true"/>
+</p>
+
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mghio&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+</p>
 
 <!--
 **mghio/mghio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi! I'm [mghio](https://www.mghio.cn) 👋🏼
+### About
 
 I'm a **Backend Engineer** based in Shanghai ☀️, working at [LinkSure](https://www.wifi.com). I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
 
