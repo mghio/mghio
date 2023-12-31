@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## About
 
-I'm a **Backend Engineer** based in Shanghai ☀️, working at [LinkSure](https://www.wifi.com). I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
+I'm a **Backend Engineer** based in Shanghai ☀️. I'm a coding passionate focused on **Java**. Interested in design, **tech** and **OpenSource** ❤️
 
 Aside from coding I enjoy writing technical things [at my blog](https://www.mghio.cn) ✍️
 
